@@ -8,7 +8,8 @@ function theBeatlesPlay(musArray,instArray){
 }
 
 function johnLennonFacts(array){
-  while (){
-    
+  while (index<array.length){
+   array[index] = array[index] + "!"
   }
+  return array
 }
