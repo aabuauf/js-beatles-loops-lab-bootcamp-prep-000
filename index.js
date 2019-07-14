@@ -11,6 +11,7 @@ function johnLennonFacts(array){
  var index = 0
   while (index<array.length){
    array[index] = array[index] + "!"
+   index = index+1
   }
   return array
 }
